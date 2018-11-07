@@ -32,3 +32,6 @@ This is example for PHP developer position
 * **Email**: piti@is-intl.com
 * **Subject**: Apply for PHP Developer Position - your fullname
 * **Body**
+  * **Github URL**
+  * **Expected Salary**
+  * **ทำไมคุณถึงสนใจทำงานกับเรา**
