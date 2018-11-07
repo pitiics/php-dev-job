@@ -10,7 +10,11 @@ This is example for PHP developer position
 - Database = Microsoft SQL Server, Postgres
 - Report (PHPWord, PHPExcel, PDF)
 
-สำหรับคนที่สนใจในตำแหน่ง PHP developer ทางทีมได้จัดทำหัวข้อสำหรับทดสอบ ผู้สมัครทุกท่านที่สนใจครับ 
+## คุณจะได้ความรู้อะไรจากการทำงานกับองค์กรของเรา
+- #### ความเข้าใจในธุรกิจท่องเที่ยว (Core Business)
+- #### ความสามารถในการเขียนคิวรี่ การพัฒนาระบบเพื่อให้คนทั่วโลกได้ใช้
+
+#### สำหรับคนที่สนใจในตำแหน่ง PHP developer ทางทีมได้จัดทำหัวข้อสำหรับทดสอบ ผู้สมัครทุกท่านที่สนใจครับ 
 
 ## สามารถเลือกทำได้อย่างใด อย่างหนึ่ง หรือ ทุกข้อเลยก็ได้ครับ ##
 ### A) - Easy level
@@ -25,11 +29,6 @@ This is example for PHP developer position
 - #### ่ให้มีหน้าจอ ที่มีปุ่มสำหรับนำไฟล์ Excel ที่สามารถนำข้อมูลเข้าไปบันทึกลงในตาราง Employee ได้
 
 เนื้อหาอีเมล์ตอนส่งมาให้ทางทีมงานตรวจครับ
-* Email: piti@is-intl.com
-* Subject: Apply for PHP Developer Position - your fullname
-* Body:
-  * Github url: xxxx
-  * Expected salary: xxxx
-  * ตอบคำถามว่าทำไมสนใจที่จะทำงานกับเรา
-
-# ของคุณครับ
+* **Email**: piti@is-intl.com
+* **Subject**: Apply for PHP Developer Position - your fullname
+* **Body**
