@@ -7,7 +7,7 @@ This is example for PHP developer position
 
 - Frontend = jQuery, Blade (Laravel), VueJS and Pure javascript (แล้วแต่ชอบ)
 - Backend = Laravel, NodeJS
-- Database = Microsoft SQL Server, Postgres
+- Database = Microsoft SQL Server, Postgres, MariaDB, MySQL
 - Report (PHPWord, PHPExcel, PDF)
 
 ## คุณจะได้ความรู้อะไรจากการทำงานกับองค์กรของเรา
