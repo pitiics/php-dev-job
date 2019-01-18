@@ -29,9 +29,7 @@ This is example for PHP developer position
 - #### ่ให้มีหน้าจอ ที่มีปุ่มสำหรับนำไฟล์ Excel ที่สามารถนำข้อมูลเข้าไปบันทึกลงในตาราง Employee ได้
 
 เนื้อหาอีเมล์ตอนส่งมาให้ทางทีมงานตรวจครับ
-* **Email**: piti@is-intl.com
+* **Email**: piti@icstravelgroup.com
 * **Subject**: Apply for PHP Developer Position - your fullname
 * **Body**
   * **Github URL**
-  * **Expected Salary**
-  * **ทำไมคุณถึงสนใจทำงานกับเรา**
